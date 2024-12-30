@@ -35,7 +35,7 @@ const { page, frontmatter } = useData()
           <span class="mr-2 ml-2">·</span>
           <a
             class="hover:text-gray-700 dark:hover:text-gray-200"
-            href="https://github.com/cekingx"
+            href="https://www.linkedin.com/in/cekingx/"
             target="_blank"
             rel="noopener"
             >LinkedIn</a

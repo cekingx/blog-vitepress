@@ -1,5 +1,5 @@
 ---
 title: Cekingx Labs
-subtext: Blog draft for Cekingx Labs
+subtext: Sharing about technical stuff and hobbies
 index: true
 ---
