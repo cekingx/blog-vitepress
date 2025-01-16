@@ -14,9 +14,9 @@ const { page, frontmatter } = useData()
         <a class="text-xl" href="/" aria-label="Cekingx Blog">
           <img
             class="inline-block mr-2"
-            style="width: 36px; height: 31px"
+            style="width: 50px; height: 50px"
             alt="logo"
-            src="/logo.svg"
+            src="/logo.png"
           />
           <span
             v-if="!frontmatter.index"
